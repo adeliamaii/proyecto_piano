@@ -1,0 +1,47 @@
+p.plateado {
+    color: silver;
+    font-size: 20px;
+    margin: 32px 180px 0px 180px;
+    letter-spacing: 1px;
+}
+p.grisoscuro {
+    color: dimgray;
+    font-size: 48px;
+    margin: -14px 180px 0px 180px;
+}
+p.gris {
+    color: gray;
+    font-size: 24px;
+    margin: -10px 180px 0px 180px;
+}
+ul{
+    list-style: none;
+    margin: 0px 140px 0px 140px;
+}
+li>a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: gray;
+    float: left;
+    padding: 15px 34px 15px 35px;
+    margin: 20px 0px 20px 0px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    border-bottom: 1px solid gray;
+    border-top: 2px solid black;
+}
+li.marrón>a {
+    color:brown;
+}
+li>a:hover{
+    font-family: 'Courier New', Courier, monospace;
+    color:brown;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    font-size: 12px;
+    letter-spacing: 3px;
+    width: 640px;
+    margin: 20px 180px 40px 180px;
+}
